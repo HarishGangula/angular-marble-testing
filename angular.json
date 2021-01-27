@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular-marble-testing"
+  "defaultProject": "angular-marble-testing",
+  "cli": {
+    "analytics": "379040d2-2547-4c24-b3da-5f25745fc6aa"
+  }
 }
